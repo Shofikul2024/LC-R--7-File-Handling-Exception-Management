@@ -19,6 +19,3 @@
 # with open("assets/index.html", "w") as file:
 #     file.write("<h1> folder  ar  maje  login file create korechi and tar maje liktaci  </h1>")
 
-
-import os
-os.rename("assets/example.text", "assets/new.txt")
